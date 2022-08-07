@@ -8,5 +8,5 @@
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/rohithvenk/">
-  <img align="right" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
+  <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
 </a>
